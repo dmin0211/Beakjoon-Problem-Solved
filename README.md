@@ -30,7 +30,7 @@
   * Repository : [KCPC-0](https://github.com/dmin0211/KCPC-0)
   * Tag : Greedy
 
-* ### [1911 흙길 보수하기](https://www.acmicoc.net/problem/1911)
+* ### [1911 흙길 보수하기](https://www.acmicpc.net/problem/1911)
   * Solved.ac Level : Silver 1
   * Repository : [KCPC-0](https://github.com/dmin0211/KCPC-0)
   * Tag : Greedy
