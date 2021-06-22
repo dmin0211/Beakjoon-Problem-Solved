@@ -18,4 +18,4 @@
 * ### [프린터 큐](https://www.acmicpc.net/problem/1966)
   * Solved.ac Level : Silver 3
   * Repository : [210303_Printer-Queue_KDM](https://github.com/dmin0211/210303_Printer-Queue_KDM)
-  * Tag : Queue, Simulation
+  * Tag : Priority Queue, Simulation
