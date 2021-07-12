@@ -39,3 +39,18 @@
   * Solved.ac Level : Gold 2
   * Repository : [KCPC-0](https://github.com/dmin0211/KCPC-0)
   * Tag : Greedy
+
+* ### [13458 시험 감독](https://www.acmicpc.net/problem/13458)
+  * Solved.ac Level : Bronze 2
+  * Repository : [KCPC-2](https://github.com/dmin0211/KCPC-2)
+  * Tag : Simuation, 삼성전자
+
+* ### [14501 퇴사](https://www.acmicpc.net/problem/14501)
+  * Solved.ac Level : Silver 4
+  * Repository : [KCPC-2](https://github.com/dmin0211/KCPC-2)
+  * Tag : DP, 삼성전자
+
+* ### [14889 시타트와 링크](https://www.acmicpc.net/problem/14889)
+  * Solved.ac Level : Silver 2
+  * Repository : [KCPC-2](https://github.com/dmin0211/KCPC-2)
+  * Tag : DFS, 삼성전자
